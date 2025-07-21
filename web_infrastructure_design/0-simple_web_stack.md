@@ -1,6 +1,6 @@
 Simple Web infrastructure 
 
-![Diagram](https://imgur.com/squBNx9)
+![Diagram](https://imgur.com/squBNx9.png)
 
 Explanation
 
