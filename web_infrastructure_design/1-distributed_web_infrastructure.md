@@ -1,6 +1,6 @@
 # Distributed Web Infrastructure
 
-![Diagram](https://imgur.com/a/Y7jvOWP.png)
+![Diagram](https://imgur.com/sE8ahnq.png)
 
 ## Explanation
 
